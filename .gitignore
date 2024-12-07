@@ -1,0 +1,9 @@
+*.*~
+*.output
+*.swp
+*.swo
+target/
+'
+*.txt
+*.info
+*.sh
